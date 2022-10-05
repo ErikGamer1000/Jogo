@@ -1,0 +1,143 @@
+body {
+background-color:blue;
+}
+
+#timerjogo {
+margin-left: auto;
+margin-right: auto;
+width: 8vw;
+color: white;
+background-color: black;
+border: 2px solid;
+border-color: green;
+}
+
+#mensagem {
+position: absolute;
+top: 42vw;
+left: 60vw;
+width: 15vw;
+height: 8vw;
+text-align: center;
+background-color: black;
+border: 2px solid;
+border-color: green;
+color: white;
+}
+
+.fundo {
+position: absolute;
+top: 5vw;
+left:5vw;
+width: 90vw;
+height: 40vw;
+background-color: black;
+border: 2px solid;
+border-color: green;
+text-align: center;
+}
+
+.painel {
+position: absolute;
+top:42vw; 
+left:30vw; 
+text-align: center;
+background-color: black;
+border: 2px solid;
+border-color: green;
+} 
+
+button {
+background-color: white;
+color: purple;
+}
+
+#div7 {
+position: absolute;
+top: 10vw;
+left: 60vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div6 {
+position: absolute;
+top: 10vw;
+left: 25vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div5 {
+position: absolute;
+top: 20vw;
+left: 42vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div4 {
+position: absolute;
+top: 20vw;
+left: 42vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div3 {
+position: absolute;
+top: 10vw;
+left: 42vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div2 {
+position: absolute; 
+top: 10vw; 
+left: 42vw; 
+width: 5vw; 
+height: 5vw; 
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div1 {
+position: absolute;
+top: 35vw;
+left: 50vw; 
+width: 2vw; 
+height: 2vw; 
+background-image: url("./internacional.svg");
+background-size: 100% 100%;
+}
+
+#v1 {
+position: absolute;
+top: 3vw;
+left: 5vw;
+width: 3vw;
+height: 3vw;
+background-image: url("./download.jpeg");
+background-size: 100% 100%;
+}
+
+#v5 {
+position: absolute;
+top: 3vw;
+left: 80vw;
+width: 3vw;
+height: 3vw;
+background-image: url("./download.jpeg");
+background-size: 100% 100%;
+}
